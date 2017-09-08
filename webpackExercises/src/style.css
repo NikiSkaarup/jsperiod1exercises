@@ -1,0 +1,23 @@
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+hmtl {
+    box-sizing: border-box;
+}
+
+body {
+    color: #FEFEFE;
+    background-color: #171717;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.hello {
+    color:firebrick;
+}
